@@ -1,3 +1,3 @@
 # anudeep-portfolio
 
-poetfolio
+portfolio
